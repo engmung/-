@@ -1,0 +1,5 @@
+{
+  "name": "작은 한 걸음 (Little Steps)",
+  "description": "번아웃 청년을 위한 마이크로 퀘스트 AI 동반자. 사진 인증과 따뜻한 대화로 일상의 작은 성취를 돕습니다.",
+  "requestFramePermissions": ["camera"]
+}
